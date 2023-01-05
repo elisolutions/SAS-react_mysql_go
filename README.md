@@ -1,6 +1,6 @@
 ﻿# SAS-react_mysql_go
  
- -This a full-stack web application that is a basic User information management with CRUD features: 
+ -This is a full-stack web application that is a basic User information management with CRUD features: 
 
 • Create User
 • List All Users 
@@ -64,7 +64,7 @@ npm start
 -Add User
 ![add_user](https://user-images.githubusercontent.com/113105714/210849591-b7c96b0c-a69f-4912-aa21-877ba0a84e70.png)
 
-- User List
+-User List
 ![list](https://user-images.githubusercontent.com/113105714/210849633-9eb5dd49-0208-47d3-bbcd-cf4442be3d89.png)
 
 -Update User
