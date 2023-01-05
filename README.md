@@ -1,6 +1,22 @@
 ﻿# SAS-react_mysql_go
  
- Step 1- set-up the database(mysql)
+ -This a full-stack web application that is a basic User information management with CRUD features: 
+
+• Create User
+• List All Users 
+• Update User 
+• Delete User 
+• View User 
+
+These are APIs that the Go Language application will export:
+GET all User's        :     /users 
+GET User by ID     :     /users/{_id} 
+POST User             :     /users 
+PUT User               :     /users/{_id} 
+DELETE User       :     /users/{_id}
+
+ 
+-Create database 'userdb':
  you can find the sql file in the folder named db
  
  or you can create your own with database name - userdb
@@ -23,9 +39,25 @@ CREATE TABLE `users` (
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 
-Step 2 -run the backend
-$ go run main.go
+Initialize the Go project:
+Initialize the Go project using the following command
+go mod init backend
+or 
+code backend
 
-Step-3 - run the frontend
-$ npm install
-$ npm start
+Adding the modules required for the project:
+go get github.com/gorilla/mux
+go get github.com/go-sql-driver/mysql
+
+
+---Front Project Structure:---
+
+Frontend Local Setup
+Step 1: The npm install installs all modules that are listed on package.json file and their 
+            dependencies
+npm install
+Step 2: Run the Frontend application
+npm start
+ App running at:
+  - Local:http://localhost:3000/ 
+
