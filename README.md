@@ -61,17 +61,24 @@ npm start
  App running at:
   - Local:http://localhost:3000/ 
   
-  ![list](https://user-images.githubusercontent.com/113105714/210849016-36d7c145-12a3-42ca-a6c6-8ff6ae108172.png)
-  
-  ![add_user](https://user-images.githubusercontent.com/113105714/210849153-d18f5eb2-1fb1-4d86-b1fc-616b50b20428.png)
+-Add User
+![add_user](https://user-images.githubusercontent.com/113105714/210849591-b7c96b0c-a69f-4912-aa21-877ba0a84e70.png)
+
+- User List
+![list](https://user-images.githubusercontent.com/113105714/210849633-9eb5dd49-0208-47d3-bbcd-cf4442be3d89.png)
+
+-Update User
+![update_user](https://user-images.githubusercontent.com/113105714/210849752-aac3035f-4254-42f9-9ab2-f9fba689aa9b.png)
+
+-Delete User
+![delete_user](https://user-images.githubusercontent.com/113105714/210849866-f22a69fe-94e9-42d1-8877-cc7fd20b1e13.png)
 
 
-![update_user](https://user-images.githubusercontent.com/113105714/210849216-d5bf41d6-852c-4c63-aab6-7a9f87939914.png)
+-User Details
+![user_details](https://user-images.githubusercontent.com/113105714/210849952-c8214fef-40c0-455a-82fb-06dd96fe9f17.png)
 
 
-![delete_user](https://user-images.githubusercontent.com/113105714/210849178-b4832ced-f8d9-4e4b-9163-be0bb6f46748.png)
 
-![user_details](https://user-images.githubusercontent.com/113105714/210849240-65b88b42-a402-4b14-9a93-1d15f204ecb2.png)
 
 
 
